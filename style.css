@@ -1,0 +1,108 @@
+body{
+    /*background-image: url("https://sm.ign.com/t/ign_fr/screenshot/default/blob_fws5.1200.jpg");
+    background-size: cover;*/
+    background-image: url("https://th.bing.com/th/id/OIP.oKWwmyLfsEmDkZ_tu34dHwHaE8?w=264&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: brown;
+
+}
+
+#Título_site{
+    color: yellow;
+    text-align: center;
+    font-family: Arial;
+    border: 3px solid black;
+    background-color: red;
+    margin-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 25px;
+}
+
+h2{
+    background-color: white;
+    margin-right: 88%;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+
+.Luffy{
+    background-color: brown;
+    color: black;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top:30px;
+    margin-bottom: 20px;
+    margin-right: 90%;
+    padding-left: 5px;
+}
+
+.Zoro{
+    background-color: greenyellow;
+    color: black;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top:30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 90%;
+    padding-left: 5px;
+}
+
+.Nami{
+    background-color: orangered;
+    color: black;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top:30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 90%;
+    padding-left: 5px;
+}
+
+.Sanji{
+    background-color: yellow;
+    color: black;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top:30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 90%;
+    padding-left: 5px;
+}
+
+.Ussop{
+    background-color: saddlebrown;
+    color: black;
+    font-family: Arial;
+    border: 2px solid black;
+    margin-top:30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 90%;
+    padding-left: 5px;
+}
+
+p{
+    background-color: rgb(0, 101, 163);
+    font-family: Arial;
+    border: 2px solid black;
+    text-align: justify;
+    padding: 5px;
+    margin-left: 25px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+}
+
